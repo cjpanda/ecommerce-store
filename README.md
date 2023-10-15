@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 Stripe Test Card: Card Number : 4242 4242 4242 4242
-                  CVC: 321
-                  Date: Any Date (10-15-2023)
+                  <br>CVC: 321
+                  <br>Date: Any Date (10-15-2023)
 
 
