@@ -1,6 +1,6 @@
-## Live Store: https://ecommerce-store-chi-six.vercel.app
+# Live Store: https://ecommerce-store-chi-six.vercel.app
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is an EcommerStore Project powered by my [Ecommerce Dashboard Project](https://github.com/cjpanda/ecommerce-dashboard)
 
 ## Getting Started
 
